@@ -1,0 +1,15 @@
+\documentclass{article}
+\usepackage{natbib}
+
+\begin{document}
+
+\title{My first Article}
+\author{Matt Haines}
+
+\section{My First Section}
+
+\bibliographystyle{apa}
+\bibliography{article}
+\nocite{*}
+
+\end{}
